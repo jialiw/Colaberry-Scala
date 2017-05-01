@@ -1,0 +1,594 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+21 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$receive$1$$anonfun$applyOrElse$6.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$receive$1.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$running$1$$anonfun$applyOrElse$7.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$running$1.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$Start$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$Stop$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$delayedInit$body.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestSource$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestSource.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$receive$1$$anonfun$applyOrElse$5.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$receive$1.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$running$1.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$Read$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$Stop$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$delayedInit$body.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriterTopic$.class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriterTopic.class
+binary dependencies:
+21 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream-kafka_2.12\jars\akka-stream-kafka_2.12-0.13.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.10.0.1.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream-kafka_2.12\jars\akka-stream-kafka_2.12-0.13.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.10.0.1.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream-kafka_2.12\jars\akka-stream-kafka_2.12-0.13.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.0.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.10.0.1.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+21 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$$anonfun$receive$1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$$anonfun$receive$1$$anonfun$applyOrElse$6
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$$anonfun$running$1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$$anonfun$running$1$$anonfun$applyOrElse$7
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$Start$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$Stop$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader$delayedInit$body
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> TestSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> TestSource$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$$anonfun$receive$1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$$anonfun$receive$1$$anonfun$applyOrElse$5
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$$anonfun$running$1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$Read$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$Stop$
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter$delayedInit$body
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> TestWriterTopic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> TestWriterTopic$
+used names:
+391 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> !
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> <init>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> <repeated>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ==
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ?0
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> A1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> AbstractPartialFunction
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Actor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorLogging
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorMaterializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorMaterializerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorRefFactory
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ActorSystem
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Any
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> AnyRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> App
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Array
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> B
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> B1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Boolean
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Byte
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ClassTag
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> CommittableMessage
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> CommittableOffset
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> CommittableOffsetBatch
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Config
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ConfigFactory
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Consumer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ConsumerMessage
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ConsumerRecord
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Control
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Done
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> DurationInt
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ExecutionContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ExecutionContextExecutor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> FiniteDuration
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Function1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Function2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Future
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Graph
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Implicits
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> IndexOutOfBoundsException
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Int
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Iterator
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Keep
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> L
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> LogSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Logging
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> LoggingAdapter
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Main
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Mat2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Mat3
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> MatchError
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Materializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Message
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Nothing
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Object
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Option
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> PartialFunction
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Predef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Product
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> R
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Receive
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> RunnableGraph
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ScalaActorRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ScalaRunTime
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Seq
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Serializable
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Sink
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> SinkShape
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Source
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Start
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Stop
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> String
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> StringContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> T
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> T0
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> T1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> T2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestReader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> TestWriter
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Throwable
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Try
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Tuple2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> U
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> Unit
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> _$7
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> _1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> _2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> actor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> actorRef2Scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> akka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> andThen
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> apply
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> asInstanceOf
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> batch
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> become
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> both
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> com
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> commitScaladsl
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> committableOffset
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> concurrent
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> config
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> context
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> control
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> create
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> dispatcher
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> duration
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> elem
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> empty
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> error
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> event
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> executor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> foldLeft
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> fromAnyClass
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> future
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> getClass
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> getName
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> global
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> group
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> groupedWithin
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ignore
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> info
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> initialActor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> kafka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> language
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> load
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> log
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> logger
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> main
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> map
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> mapAsync
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> materializeClassTag
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> materializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> msg
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> ne
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> onFailure
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> package
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> postfixOps
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> preStart
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> processMessage
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> record
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> reflect
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> run
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> running
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> runtime
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> s
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> scaladsl
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> seconds
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> self
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> shutdown
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> stop
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> stream
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> successful
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> system
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> toMat
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> toString
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> typedProductIterator
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> typesafe
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> unchecked
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> updated
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> value
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> <init>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> <repeated>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> ActorSystem
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Any
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> AnyRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Array
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> AutoSubscription
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Byte
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> ByteArrayDeserializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> CommittableMessage
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Consumer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> ConsumerConfig
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> ConsumerMessage
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> ConsumerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Control
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Deserializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> K
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Nothing
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Object
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Predef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Source
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> String
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> StringDeserializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Subscription
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Subscriptions
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> TestSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> TestWriterTopic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> Topic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> V
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> actor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> akka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> apache
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> apply
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> clients
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> committableSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> common
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> consumer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> consumerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> groupId
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> kafka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> org
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> scaladsl
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> serialization
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> stream
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> system
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> topics
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> withBootstrapServers
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> withGroupId
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> withProperty
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> !
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> <init>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> <repeated>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ==
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ?0
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> A
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> A1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> AbstractPartialFunction
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Actor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorLogging
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorMaterializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorMaterializerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorRefFactory
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ActorSystem
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Any
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> AnyRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> App
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Array
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> B1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Boolean
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> BufferedReader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Byte
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ByteArraySerializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Cancellable
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Class
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ClassTag
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Config
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ConfigFactory
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Done
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ExecutionContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ExecutionContextExecutor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> FileReader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Function0
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Function1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Function2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Future
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Graph
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Implicits
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> IndexOutOfBoundsException
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Int
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Iterator
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> K
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Keep
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> L
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> LogSource
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Logging
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> LoggingAdapter
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Main
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Mat2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Mat3
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> MatchError
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Materializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> NotUsed
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Nothing
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Object
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Option
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> PartialFunction
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Predef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Producer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ProducerRecord
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ProducerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Product
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Promise
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> R
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Read
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Reader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Receive
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Repr
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> RunnableGraph
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> S
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ScalaActorRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ScalaRunTime
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Serializable
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Serializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Sink
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> SinkShape
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Source
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Stop
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> String
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> StringContext
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> StringSerializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> T
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> T0
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> T1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> T2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriter
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> TestWriterTopic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Throwable
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Topic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Tuple2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> U
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> Unit
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> V
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> _$7
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> _1
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> _2
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> actor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> actorRef2Scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> akka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> apache
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> apply
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> asInstanceOf
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> both
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> cancel
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> clients
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> close
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> com
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> common
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> concurrent
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> config
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> context
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> control
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> dispatcher
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> error
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> event
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> executor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> filename
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> fromAnyClass
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> future
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> getClass
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> getName
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> global
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> info
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> initialActor
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> io
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> java
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> kafka
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> kafkaSink
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> load
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> log
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> logger
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> main
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> map
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> materializeClassTag
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> materializer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> ne
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> onFailure
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> org
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> p
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> package
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> plainSink
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> preStart
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> producer
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> producerSettings
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> readLine
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> reader
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> reflect
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> run
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> runtime
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> s
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> scala
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> scaladsl
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> self
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> serialization
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> stop
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> stream
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> successful
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> system
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> toMat
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> toString
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> typedProductIterator
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> typesafe
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> unchecked
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> unfoldResourceAsync
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> withBootstrapServers
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> <init>
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> AnyRef
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> Object
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> String
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> TestWriterTopic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> Topic
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> scala
+product stamps:
+21 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$receive$1$$anonfun$applyOrElse$6.class -> lastModified(1493671382910)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$receive$1.class -> lastModified(1493671382908)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$running$1$$anonfun$applyOrElse$7.class -> lastModified(1493671382921)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$$anonfun$running$1.class -> lastModified(1493671382913)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$.class -> lastModified(1493671382897)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$delayedInit$body.class -> lastModified(1493671382906)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$Start$.class -> lastModified(1493671382902)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader$Stop$.class -> lastModified(1493671382904)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestReader.class -> lastModified(1493671382899)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestSource$.class -> lastModified(1493666609498)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestSource.class -> lastModified(1493666609496)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$receive$1$$anonfun$applyOrElse$5.class -> lastModified(1493669065642)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$receive$1.class -> lastModified(1493669065639)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$$anonfun$running$1.class -> lastModified(1493669065644)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$.class -> lastModified(1493669065627)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$delayedInit$body.class -> lastModified(1493669065637)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$Read$.class -> lastModified(1493669065632)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter$Stop$.class -> lastModified(1493669065634)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriter.class -> lastModified(1493669065630)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriterTopic$.class -> lastModified(1493666025087)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\target\scala-2.12\classes\TestWriterTopic.class -> lastModified(1493666025085)
+source stamps:
+4 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> hash(a0861e29be363e37e112b1c36358f583ea243a65)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> hash(e3e0de7a7cc28dd5f22636a9720d59e940111ac3)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> hash(8df0f73cd6d57fe0d6a79a4c56d3a40d6b08dab1)
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> hash(d8aa5bb0c8929345956b613d2364147558f22901)
+binary stamps:
+7 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> lastModified(1442193934007)
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.0.jar -> lastModified(1492010834000)
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream-kafka_2.12\jars\akka-stream-kafka_2.12-0.13.jar -> lastModified(1479895794000)
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.0.jar -> lastModified(1492010876000)
+C:\Users\Dan\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar -> lastModified(1474721599000)
+C:\Users\Dan\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.10.0.1.jar -> lastModified(1470314482000)
+C:\Users\Dan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+7 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.0.jar -> akka.actor.Actor
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream-kafka_2.12\jars\akka-stream-kafka_2.12-0.13.jar -> akka.kafka.scaladsl.Consumer$
+C:\Users\Dan\.ivy2\cache\com.typesafe.akka\akka-stream_2.12\jars\akka-stream_2.12-2.5.0.jar -> akka.stream.scaladsl.Keep
+C:\Users\Dan\.ivy2\cache\com.typesafe\config\bundles\config-1.3.1.jar -> com.typesafe.config.Config
+C:\Users\Dan\.ivy2\cache\org.apache.kafka\kafka-clients\jars\kafka-clients-0.10.0.1.jar -> org.apache.kafka.clients.consumer.ConsumerRecord
+C:\Users\Dan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.Product
+internal apis:
+4 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwtleU1gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBGu7SmdAAGc3lzdGVtc3EAfgALKNjQVHQAB2NvbnRleHRzcQB+AAsI++j0dAAEc2VsZnNxAH4AC2Gs+Up0AAxtYXRlcmlhbGl6ZXJzcQB+AAtMpCCfdAAIZXhlY3V0b3J1cQB+AAkAAAA1c3EAfgALt5mI8nQABm5vdGlmeXNxAH4AC3uYGf50AAdSZWNlaXZlc3EAfgALfGc1MHQABHdhaXRzcQB+AAu1JzB5dAANJGFzSW5zdGFuY2VPZnNxAH4AC+fpZCp0AAZsb2dnZXJzcQB+AAvjUc4AdAAMcHJvZHVjdEFyaXR5c3EAfgALvhRRsXQABmVxdWFsc3NxAH4AC5oOlt10AAdydW5uaW5nc3EAfgALgLqla3QADGFzSW5zdGFuY2VPZnNxAH4AC36apkF0AA5leGVjdXRpb25TdGFydHNxAH4AC9aS2WR0AAxzeW5jaHJvbml6ZWRzcQB+AAvLncYEdAANJGlzSW5zdGFuY2VPZnNxAH4AC/G3avt0AAdyZWNlaXZlc3EAfgALAkY6lXQACnByZVJlc3RhcnRzcQB+AAsr2UbBdAANYXJvdW5kUmVjZWl2ZXNxAH4AC346Nut0AAhjYW5FcXVhbHNxAH4ACywMlVh0AAZjb25maWdzcQB+AAs5drB2dAALcG9zdFJlc3RhcnRzcQB+AAtTYnmvdAAEbWFpbnNxAH4AC50tRbV0AAVTdGFydHNxAH4ACyTSapt0AAhwb3N0U3RvcHNxAH4AC6yBgLx0AA1wcm9kdWN0UHJlZml4c3EAfgALDd8TIHQACW5vdGlmeUFsbHNxAH4ACxApZLd0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC4itkoB0AAxpc0luc3RhbmNlT2ZzcQB+AAthvyOVdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4ACwki8EN0AA5hcm91bmRQb3N0U3RvcHNxAH4AC5bvVhd0AAY8aW5pdD5zcQB+AAvKDr/6dAAIcHJlU3RhcnRzcQB+AAvU4YU4dAAJdW5oYW5kbGVkc3EAfgALVY9jg3QAAj09c3EAfgALL2RSknQABWNsb25lc3EAfgALOhucZ3QABiRpbml0JHNxAH4AC0JPSjd0AApUZXN0UmVhZGVyc3EAfgAL8JjgzXQAB01lc3NhZ2VzcQB+AAuixculdAAGc2VuZGVyc3EAfgALck7SRHQACHRvU3RyaW5nc3EAfgAL6kZX9HQABGFyZ3NzcQB+AAsJTqj6dAACIT1zcQB+AAtXkIJwdAAIZ2V0Q2xhc3NzcQB+AAt4t0vXdAAEU3RvcHNxAH4AC2QdNSd0AAJuZXNxAH4AC76JGmd0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAui+t4+dAACZXFzcQB+AAvUofp2dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAL+AdEBXQAA2xvZ3NxAH4ACy9D0jR0AAxpbml0aWFsQWN0b3JzcQB+AAvNSgDFdAALZGVsYXllZEluaXRzcQB+AAt54lAzdAACIyNzcQB+AAtuLSDGdAAIZmluYWxpemVzcQB+AAsjhawtdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAvCdW0OdAAIaGFzaENvZGVzcQB+AAvMWl3rdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AFt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ai0wACWluaGVyaXRlZHEAfgCLTAAHcGFyZW50c3EAfgCLeHEAfgCpc3EAfgCkdXEAfgCGAAAAAHNxAH4ApHVxAH4AhgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AjHEAfgCVdXEAfgCWAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4As3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCodAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM1zcQB+AJgAcQB+AD11cQB+AJoAAAAAc3EAfgDAdAAEVW5pdHEAfgDGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4As3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AnXQABVBsYWlucQB+AGNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKhzcQB+AMB0AAVBcnJheXEAfgDGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AMB0AAZTdHJpbmdzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMdAAEamF2YXNxAH4AzHQABGxhbmdxAH4A0XNxAH4ApHVxAH4A6AAAAARzcQB+AMB0AANBcHBxAH4AxnNxAH4AwHQAC0RlbGF5ZWRJbml0cQB+AMZzcQB+AMB0AAZPYmplY3RxAH4A7HNxAH4AwHQAA0FueXEAfgDGc3EAfgCIcQB+AJV1cQB+AJYAAAAAc3EAfgCYAHQAClRlc3RSZWFkZXJ1cQB+AJoAAAAAfnEAfgCcdAAIQ2xhc3NEZWZ1cQB+AKAAAAAAc3EAfgCkcQB+AKpzcQB+AKRzcQB+AKxzcQB+AKR1cQB+AIYAAAAAc3EAfgCkdXEAfgCGAAAAAHNxAH4ApHVxAH4A6AAAAARzcQB+AMB0AAxBY3RvckxvZ2dpbmdzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMdAAEYWtrYXNxAH4AzHQABWFjdG9ycQB+ANFzcQB+AMB0AAVBY3RvcnEAfgEQc3EAfgDAcQB+APpzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMcQB+APBzcQB+AMxxAH4A8nEAfgDRc3EAfgDAcQB+APxzcQB+AMRzcQB+AMd1cQB+AMoAAAACc3EAfgDMcQB+AM9xAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbxcB4k3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AExDOlxVc2Vyc1xEYW5cRGVza3RvcFxDb2xhYmVycnktU2NhbGFcUHJvamVjdFBoYXNlMVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoIYeKb42PjfhErHDY1j1g+okOmU=
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwa4LfoAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwsrTVEnQAClRlc3RTb3VyY2VzcQB+AAxQu+wxdAAGbm90aWZ5c3EAfgAMCWBJtHQABHdhaXRzcQB+AAztp+EPdAANJGFzSW5zdGFuY2VPZnNxAH4ADKi98SR0AAZlcXVhbHNzcQB+AAx4AB1NdAAMYXNJbnN0YW5jZU9mc3EAfgAMPVcaW3QADHN5bmNocm9uaXplZHNxAH4ADFPCGXJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMrjZJqHQABmNyZWF0ZXNxAH4ADPplp3h0AAlub3RpZnlBbGxzcQB+AAznXo7GdAAMaXNJbnN0YW5jZU9mc3EAfgAM7qj9DnQAAj09c3EAfgAMT4NLP3QABWNsb25lc3EAfgAMCT0yPXQACHRvU3RyaW5nc3EAfgAMS1/5nXQAAiE9c3EAfgAMRoqZ8nQACGdldENsYXNzc3EAfgAM9L0fw3QAAm5lc3EAfgAM5Oh9LHQAAmVxc3EAfgAMI8PB+nQAAiMjc3EAfgAMRwJ6I3QACGZpbmFsaXplc3EAfgAMhjYneXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAPdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBcc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB1dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB2c3EAfgBpdAADQW55c3EAfgBtc3EAfgBwdXEAfgBzAAAAAnNxAH4AdXQABXNjYWxhcQB+AHx1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8V3o011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABMQzpcVXNlcnNcRGFuXERlc2t0b3BcQ29sYWJlcnJ5LVNjYWxhXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOPg3np8wo3V8iY2qXINWelAERrD
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwiLCBTQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAVzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHArWOLXdAAGc3lzdGVtc3EAfgALZZWwsnQAB2NvbnRleHRzcQB+AAuC9pnkdAAEc2VsZnNxAH4ACxobptd0AAxtYXRlcmlhbGl6ZXJzcQB+AAu3JWCydAAIZXhlY3V0b3J1cQB+AAkAAAA1c3EAfgALYZmZqnQABm5vdGlmeXNxAH4AC4QgOud0AARSZWFkc3EAfgALGjiz5HQAB1JlY2VpdmVzcQB+AAsq2UvgdAAEd2FpdHNxAH4AC/nnsxR0AA0kYXNJbnN0YW5jZU9mc3EAfgALTVMV2nQABmxvZ2dlcnNxAH4AC7ds9ol0AAxwcm9kdWN0QXJpdHlzcQB+AAseKsRfdAAGZXF1YWxzc3EAfgALwyyUkHQAB3J1bm5pbmdzcQB+AAvIcOXAdAAMYXNJbnN0YW5jZU9mc3EAfgALFQOVoXQADmV4ZWN1dGlvblN0YXJ0c3EAfgALjdLMiXQAClRlc3RXcml0ZXJzcQB+AAuHWD8JdAAMc3luY2hyb25pemVkc3EAfgAL4psF8nQADSRpc0luc3RhbmNlT2ZzcQB+AAswgXu5dAAHcmVjZWl2ZXNxAH4AC7QV1nN0AApwcmVSZXN0YXJ0c3EAfgAL+1+tRHQADWFyb3VuZFJlY2VpdmVzcQB+AAuBk3F3dAAIY2FuRXF1YWxzcQB+AAuuGaHpdAAGY29uZmlnc3EAfgALhjcJzHQAC3Bvc3RSZXN0YXJ0c3EAfgALyXjvKnQABG1haW5zcQB+AAsY/hU9dAAIcG9zdFN0b3BzcQB+AAuOpv9RdAANcHJvZHVjdFByZWZpeHNxAH4ACy6Y8id0AAlub3RpZnlBbGxzcQB+AAvXqMjMdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAsdQrGwdAAMaXNJbnN0YW5jZU9mc3EAfgALnlffFXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAv6TA35dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAsq730IdAAGPGluaXQ+c3EAfgALt7WcbHQACHByZVN0YXJ0c3EAfgALDR56XXQACXVuaGFuZGxlZHNxAH4ACxJbACl0AAI9PXNxAH4AC2Qg3iR0AAVjbG9uZXNxAH4AC5jyapd0AAhmaWxlbmFtZXNxAH4ACwqb2+N0AAYkaW5pdCRzcQB+AAtqC1kHdAAGc2VuZGVyc3EAfgALDRM9pnQACHRvU3RyaW5nc3EAfgALM/S9M3QABGFyZ3NzcQB+AAsxs3qAdAACIT1zcQB+AAvL5SH3dAAIZ2V0Q2xhc3NzcQB+AAt22yBkdAAEU3RvcHNxAH4AC9FkV8J0AAJuZXNxAH4ACxd5YVF0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsWkm1RdAACZXFzcQB+AAuG0nP+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALQJ9WZnQAA2xvZ3NxAH4AC+EXKqJ0AAxpbml0aWFsQWN0b3JzcQB+AAugk5FSdAALZGVsYXllZEluaXRzcQB+AAsCwG2ndAACIyNzcQB+AAvzbxuDdAAIZmluYWxpemVzcQB+AAv/wrdBdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAsFRHcidAAIaGFzaENvZGVzcQB+AAsfwrkvdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+AC91cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AKRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4Ai0wACWluaGVyaXRlZHEAfgCLTAAHcGFyZW50c3EAfgCLeHEAfgCpc3EAfgCkdXEAfgCGAAAAAHNxAH4ApHVxAH4AhgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AjHEAfgCVdXEAfgCWAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4As3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCodAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AKhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AM1zcQB+AJgAcQB+AEF1cQB+AJoAAAAAc3EAfgDAdAAEVW5pdHEAfgDGdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4As3hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AnXQABVBsYWlucQB+AGNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AKhzcQB+AMB0AAVBcnJheXEAfgDGdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AMB0AAZTdHJpbmdzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMdAAEamF2YXNxAH4AzHQABGxhbmdxAH4A0XNxAH4ApHVxAH4A6AAAAARzcQB+AMB0AANBcHBxAH4AxnNxAH4AwHQAC0RlbGF5ZWRJbml0cQB+AMZzcQB+AMB0AAZPYmplY3RxAH4A7HNxAH4AwHQAA0FueXEAfgDGc3EAfgCIcQB+AJV1cQB+AJYAAAAAc3EAfgCYAHQAClRlc3RXcml0ZXJ1cQB+AJoAAAAAfnEAfgCcdAAIQ2xhc3NEZWZ1cQB+AKAAAAAAc3EAfgCkcQB+AKpzcQB+AKRzcQB+AKxzcQB+AKR1cQB+AIYAAAAAc3EAfgCkdXEAfgCGAAAAAHNxAH4ApHVxAH4A6AAAAARzcQB+AMB0AAxBY3RvckxvZ2dpbmdzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMdAAEYWtrYXNxAH4AzHQABWFjdG9ycQB+ANFzcQB+AMB0AAVBY3RvcnEAfgEQc3EAfgDAcQB+APpzcQB+AMRzcQB+AMd1cQB+AMoAAAADc3EAfgDMcQB+APBzcQB+AMxxAH4A8nEAfgDRc3EAfgDAcQB+APxzcQB+AMRzcQB+AMd1cQB+AMoAAAACc3EAfgDMcQB+AM9xAH4A0XVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbxZ0dC3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AExDOlxVc2Vyc1xEYW5cRGVza3RvcFxDb2xhYmVycnktU2NhbGFcUHJvamVjdFBoYXNlMVx0YXJnZXRcc2NhbGEtMi4xMlxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUjfD3PNbVf+DWp5pMVtOkDWsI2rE=
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8pLJawAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwbBRJQnQABm5vdGlmeXNxAH4ADL9Bs4Z0AAR3YWl0c3EAfgAM0WpIS3QADSRhc0luc3RhbmNlT2ZzcQB+AAx5+jFYdAAGZXF1YWxzc3EAfgAM8yxpEnQADGFzSW5zdGFuY2VPZnNxAH4ADCQan3B0AAVUb3BpY3NxAH4ADP9HVYh0AAxzeW5jaHJvbml6ZWRzcQB+AAwUcxtCdAANJGlzSW5zdGFuY2VPZnNxAH4ADPQaUTZ0AAlub3RpZnlBbGxzcQB+AAwQn6oWdAAMaXNJbnN0YW5jZU9mc3EAfgAMRSL0mHQAD1Rlc3RXcml0ZXJUb3BpY3NxAH4ADE8+TWB0AAI9PXNxAH4ADJ6PZq10AAVjbG9uZXNxAH4ADC1i2oR0AAh0b1N0cmluZ3NxAH4ADLpnzDB0AAIhPXNxAH4ADA1DD7B0AAhnZXRDbGFzc3NxAH4ADFElDW90AAJuZXNxAH4ADBy2uDx0AAJlcXNxAH4ADEcuI4N0AAIjI3NxAH4ADNV+2MN0AAhmaW5hbGl6ZXNxAH4ADMXxUMl0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AI3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AF1zcQB+AFh1cQB+ADwAAAAAc3EAfgBYdXEAfgA8AAAAAHNxAH4AWHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AXHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AdXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AdnNxAH4AaXQAA0FueXNxAH4AbXNxAH4AcHVxAH4AcwAAAAJzcQB+AHV0AAVzY2FsYXEAfgB8dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvFbrcZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTYqluwyJKTRZVrYT0jZBR1WPIpAQ==
+external apis:
+0 items
+source infos:
+4 items
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestReader.scala -> 
+AAAAAAAAAAA=
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestSource.scala -> 
+AAAAAAAAAAA=
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriter.scala -> 
+AAAAAAAAAAA=
+C:\Users\Dan\Desktop\Colaberry-Scala\ProjectPhase1\src\main\scala\TestWriterTopic.scala -> 
+AAAAAAAAAAA=
+compilations:
+21 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7XYUIx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7XcU391cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7Xdvt11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7XsHmJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7XsgUx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7Y/mQF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7aChnl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7aH22V1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7tttXp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7tug/B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW7uUtDd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPEM6XFVzZXJzXERhblxEZXNrdG9wXFByb2plY3RQaGFzZTFcdGFyZ2V0XHNjYWxhLTIuMTJcY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8Vutxl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8VxoNt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8V3o011cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8V7gLB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8V++Sp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8WFumx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8WTrhV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8WdHQt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8W/o6B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8XAeJN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATEM6XFVzZXJzXERhblxEZXNrdG9wXENvbGFiZXJyeS1TY2FsYVxQcm9qZWN0UGhhc2UxXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
