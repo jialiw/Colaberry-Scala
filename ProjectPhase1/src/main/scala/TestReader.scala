@@ -3,7 +3,7 @@ import akka.actor.{Actor, ActorLogging, ActorSystem}
 import akka.event.Logging
 import akka.kafka.ConsumerMessage.{CommittableMessage, CommittableOffsetBatch}
 import akka.kafka.scaladsl.Consumer.Control
-import akka.stream.{ActorMaterializer, Materializer}
+import akka.stream.ActorMaterializer
 import akka.stream.scaladsl.{Keep, Sink}
 import com.typesafe.config.ConfigFactory
 
@@ -44,10 +44,11 @@ class TestReader extends Actor with ActorLogging{
       log.info("Initializing logging reader")
       val (control, future) = TestSource.create("loggingReader")(context.system)
         .mapAsync(2)(processMessage)
-        .map(_.committableOffset)
-        .groupedWithin(10, 15 seconds)
-        .map(group => group.foldLeft(CommittableOffsetBatch.empty){(batch, elem) => batch.updated(elem)}) // CommittalbeOffsetBatch 
-        .mapAsync(1)(_.commitScaladsl())
+        // these 4 lines tell Kafka that this consumer has read some data, and mark these data as "already read", so next time, this consumer will not read them again
+//        .map(_.committableOffset)
+//        .groupedWithin(10, 15 seconds)
+//        .map(group => group.foldLeft(CommittableOffsetBatch.empty){(batch, elem) => batch.updated(elem)}) // CommittalbeOffsetBatch will notice the consumer not to read previous read message
+//        .mapAsync(1)(_.commitScaladsl())
         .toMat(Sink.ignore)(Keep.both)
         .run()
 
