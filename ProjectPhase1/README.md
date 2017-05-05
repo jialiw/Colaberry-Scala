@@ -6,7 +6,7 @@ This project has 2 functions:
 ---
 How to run:
 
-Step 1: Git clone the project
+Step 1: Git clone the project\n
 Step 2: use command tool to go to the project and run the project with following command:
 ``` scala 
 sbt run
