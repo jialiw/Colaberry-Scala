@@ -23,13 +23,10 @@
 [0m[[0mdebug[0m] [0m	C:\Users\Dan\.ivy2\cache\org.slf4j\log4j-over-slf4j\jars\log4j-over-slf4j-1.7.12.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread Main-akka.actor.default-dispatcher-3 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread Main-akka.actor.default-dispatcher-3 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread default-scheduler-1 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread default-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Main-akka.actor.default-dispatcher-4 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Main-akka.actor.default-dispatcher-4 exited.[0m
 [0m[[0mdebug[0m] [0mWaiting for thread Thread-1 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread Thread-1 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread default-akka.actor.default-dispatcher-3 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread default-akka.actor.default-dispatcher-3 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
