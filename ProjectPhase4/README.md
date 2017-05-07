@@ -12,8 +12,10 @@ sbt run
 Specification:
 
 | ~ | ~ |
+| --- | --- |
 | `Elastic Search IP address` | `192.168.99.100 ` |
 | `client IP address` | `localhost` | 
 | ` Elastic Search port` | `9200` | 
 | `client port` | `8200` |
 | `Elastic Search uri` | `colaberry/samples` |
+
