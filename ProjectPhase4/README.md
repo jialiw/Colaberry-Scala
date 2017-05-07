@@ -1,6 +1,6 @@
 ## Project phase 4: simple Elastic Search Rest API
 
-This projects receives client keyword search request, uses GET to fetch qualified result from Elastic Search, and returns back to client
+#### This projects receives client keyword search request, uses GET to fetch qualified result from Elastic Search, and returns back to client
 ---
 How to run:
 
