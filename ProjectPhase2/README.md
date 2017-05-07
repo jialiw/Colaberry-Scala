@@ -8,8 +8,9 @@ sbt run
 ```
 ---
 Specification:
+
 | ~ | ~ |
 | --- | --- |
 | `IP address` | `192.168.99.100:9092` |
-| `Topic 1` | `MessageProcessor` |
-| `Topic 2` | `MessageProcessor2` |
+| `Topic 1` (initial topic) | `MessageProcessor` |
+| `Topic 2` (new topic) | `MessageProcessor2` |
