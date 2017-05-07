@@ -17,5 +17,5 @@ Specification:
 |`Kafka port` | `9092` |
 | `Elastic Search port`| `9200` |
 | `Topic` | `MessageProcessor2` |
-
+| `Elastic Search uri` | `colaberry/samples` |
 
