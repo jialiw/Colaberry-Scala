@@ -1,6 +1,6 @@
 ## Project phase 2: read from Kafka topic 1 to Kafa topic 2 
 
-##### This project consumes Kafka stream from Topic 1, processes data, and sends enhanced data to Topic 2 
+#### This project consumes Kafka stream from Topic 1, processes data, and sends enhanced data to Topic 2 
 ---
 How to run:
 Git clone this project, direct to the project location in local drive, and run the project with following command:
