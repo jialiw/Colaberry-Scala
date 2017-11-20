@@ -1,4 +1,4 @@
-# Colaberry-Scala-Capstone Project 
+# Scala-Capstone Project 
 High level architecture of the Micro-service based system
 Key tech used: Akka, Kafka, Scala, ElasticSearch, Http request
 
